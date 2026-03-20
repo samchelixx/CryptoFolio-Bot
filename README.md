@@ -1,7 +1,8 @@
 # 🪙 CryptoFolio Bot
 
-**Advanced Telegram Crypto Portfolio Tracker** — полнофункциональный бот для отслеживания криптовалютного портфеля с real-time данными, аналитикой и графиками.
+Привет! Это мой opensource пет-проект — Telegram-бот для трекинга криптовалютного портфеля. 
 
+Я написал его, потому что мне не хватало простого и быстрого инструмента прямо в телеге (без платных подписок и перегруженных приложух). Бот умеет считать PnL по каждой монете, строить красивые графики, присылать алерты на нужную цену и даже симулировать стратегии DCA.
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-3.x-blue?logo=telegram)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red?logo=sqlalchemy)
